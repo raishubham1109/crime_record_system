@@ -1,0 +1,21 @@
+.input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+ background-color: #F7F9F2;
+    color: black;
+	}
+.select
+{ width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+ background-color: #F7F9F2;
+    color: black;
+	}
+.background{
+	background-color:#3E3E61;
+}
+h1{
+color:white;}
